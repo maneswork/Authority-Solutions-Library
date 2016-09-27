@@ -1,0 +1,2 @@
+<!-- Basically this will make a section or a block of text be clickable with link ->
+<div onClick="windows.open('http://authoritysolutions.com/','_self'); return false;">Submit</div>
